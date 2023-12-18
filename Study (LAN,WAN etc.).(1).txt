@@ -1,0 +1,78 @@
+Experiment No. 1
+
+Title:- Study and design the types of  Computer Networks (LAN,WAN etc.) and various connecting devices and components required for it (LAN,WAN etc.).
+Aim:- Study and design the types of computer networks and its connecting devices.
+Objective:- To know the basics of computer networks and networking control devices.
+Relevance:-Types of  Computer Networks and Networking Control Devices.
+ 
+Theory:-
+Introduction:
+A network is a collection of computers connected to each other. The network allows
+computers to communicate with each other and share resources and information
+	Network Classification:
+Based on their scale, networks can be classified as Local Area Network (LAN), 
+Wide Area Network (WAN), Metropolitan Area Network (MAN), Personal Area 
+Network ( PAN) etc.
+
+
+LAN:
+   A local area network (LAN) is a collection of devices connected together in one physical location, such as a building, office, or home. A LAN can be small or large, ranging from a home network with one user to an enterprise network with thousands of users and devices in an office or school.
+
+
+
+
+WAN:
+In its simplest form, a wide-area network (WAN) is a collection of local-area networks (LAN's) or other networks that communicate with one another.  A WAN is essentially a network of networks, with the Internet the world's largest WAN.
+
+MAN:
+A metropolitan area network (MAN) is a computer network that connects computers within a metropolitan area, which could be a single large city, multiple cities and towns, or any given large area with multiple buildings. A MAN is larger than a local area network (LAN) but smaller than a wide area network (WAN). MAN do not have to be in urban areas; the term "metropolitan" implies the size of the network, not the demographics of the area that it serves.
+
+
+
+PAN:
+A personal area network (PAN) connects electronic devices within a user's immediate area. The size of a PAN ranges from a few centimeters to a few meters. One of the most common real-world examples of a PAN is the connection between a Bluetooth earpiece and a smartphone. PAN can also connect laptops, tablets, printers, keyboards, and other computerized devices.
+
+	Networking devices:
+Different networking devices have different roles to play in a computer network. These  network devices also work at different segments of a computer network performing different  works. In our new series after network topology, we talk about different networking devices like  a switch, router, hub, bridge  etc.
+
+
+
+
+Network Hub:
+Network Hub is a networking device which is used to connect multiple network hosts. A  network hub is also used to do data transfer. The data is transferred in terms of packets on a  computer network. So when a host sends a data packet to a network hub, the hub copies the data  packet to all of its ports connected to. Like this, all the ports know about the data and the port for  whom the packet is intended, claims the packet.
+ 
+
+However, because of its working mechanism, a hub is not so secure and safe. Moreover,  copying the data packets on all the interfaces or ports makes it slower and more congested which  led to the use of network switch. 
+
+Network Switch:
+Like a hub, a switch also works at the layer of LAN (Local Area Network) but you can say that a switch is more intelligent than a hub. While hub just does the work of data forwarding, a switch does ‘filter and forwarding’ which is a more intelligent way of dealing with the data packets.
+ 
+So, when a packet is received at one of the interfaces of the switch, it filters the packet and sends only to the interface of the intended receiver. For this purpose, a switch also maintains a CAM (Content Addressable Memory) table and has its own system configuration and memory. CAM table is also called as forwarding table or forwarding information base (FIB).
+
+Modem:
+A modem is a network device that both modulates and demodulates analog carrier signals (called sine waves) for encoding and decoding digital information for processing. Modems accomplish both of these tasks simultaneously and, for this reason, the term modem is a combination of "modulate" and "demodulate."
+
+Network Router:
+A router is a device that connects two or more packet-switched networks or sub-networks. It serves two primary functions: managing traffic between these networks by forwarding data packets to their intended IP addresses, and allowing multiple devices to use the same Internet connection.
+Bridge:
+A bridge is a type of computer network device that provides interconnection with other bridge networks that use the same protocol.
+
+
+Repeater:
+A repeater is a network device that re-transmits a received signal with more power and to an extended geographical or topological network boundary than what would be capable with the original signal.
+
+
+
+
+Network interface card (NIC):
+A NIC provides a computer with a dedicated, full-time connection to a network. It implements the physical layer circuitry necessary for communicating with a data link layer standard, such as Ethernet or Wi-Fi. Each card represents a device and can prepare, transmit and control the flow of data on the network.
+
+
+
+
+Conclusion: Thus we have studied practically configure the networking control devices.
+
+
+
+
+

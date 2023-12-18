@@ -1,0 +1,81 @@
+Experiment No. 2
+
+Title:- Study of network connectivity test tools: ping, nslookup, ipconfig, arp, route, tracert, nmap, netstat, finger. 
+Aim:- To study Network connectivity test tools(networking commands) with all its options .
+Objective:- To make use of Network configuration and troubleshooting commands
+Relevance:-Networking commands
+
+Theory:-
+Introduction: 
+All commands related to Network configuration which includes how to switch to privilege mode and normal mode and how to configure router interface and how to save this 
+configuration to flash memory or permanent memory. This commands includes 
+
+IP/Networking Commands: 
+There are a lot of IP commands with short descriptions listed here but you need the ones  mentioned below to diagnose and configure your network.
+1. Ipconfig:
+ 
+ipconfig (standing for "Internet Protocol configuration") is a console application program of some computer operating systems that displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings.Displays all current TCP/IP network configuration values and refreshes Dynamic Host  Configuration Protocol (DHCP) and Domain Name System (DNS) settings. Used without  parameters, ipconfig displays the IP address, subnet mask, and default gateway for all  adapters.
+
+
+
+
+2. ipconfig/all 
+ 	Ipconfig/all is a Windows command line which is used to find all network connection information like lan info, wireless info, vpn and so on.
+
+
+
+
+
+
+
+
+
+3. nslookup
+ 
+Nslookup sends DNS requests to a DNS server 
+-nslookup [domain] [dns server] 
+The nslookup command to send DNS requests to a server. By default, if you do not specify the DNS server, the command will use the one that is configured for your network interface (the one you use to surf the internet, for example). Nslookup is the name of a program that lets an Internet server administrator or any computer user enter a host name (for example, "whatis.com") and find out the corresponding IP address or domain name system (DNS) record. The user can also enter a command for it to do a reverse DNS lookup and find the host name for an IP address that is specified.
+
+
+
+
+4. ping :
+ 
+ping is the primary TCP/IP command used to troubleshoot connectivity, reachability, and name resolution. Used without parameters, this command displays Help content. You can also use this command to test both the computer name and the IP address of the computer.
+5. Tracert  www.google.com
+ 
+Tracertis  a command-line utility that you can use to trace the path that an Internet Protocol (IP) packet takes to its destination.
+
+
+
+
+
+6. netstat
+ 
+The netstat command, meaning network statistics, is a Command Prompt command used to display very detailed information about how your computer is communicating with other computers or network devices. 
+7. arp
+ 
+The ARP commands to view, display, or modify the details/information in an ARP table/cache.
+The ARP cache or table has the dynamic list of IP and MAC addresses of those devices to which your computer has communicated recently in a local network. The purpose of maintaining an ARP table is that when you want to communicate with another device, your device does not need to send the ARP request for the MAC address of that device.
+
+8. Route:
+ 
+route (command) In computing, route is a command used to view and manipulate the IP routing table in Unix-like and Microsoft Windows operating systems and also in IBM OS/2 and ReactOS. Manual manipulation of the routing table is characteristic of static routing. 
+9. Finger
+ 
+Purpose Shows user information. This command is the same as the f command.
+Syntax { finger | f } [ [ -b ] [ -h] [ -l ] [ -p ]]| [ -i ] [ -q ] [ -s ] [ -w ]] ...
+Description The /usr/bin/finger command displays information about the users currently logged in to a host. ...
+Flags Parameters ...
+10. Nmap:
+ 
+Nmap is short for Network Mapper. It is an open-source Linux command-line tool that is used to scan IP addresses and ports in a network and to detect installed applications. Nmap (Network mapper) is an open-source Linux tool for network and security auditing. The tool helps network administrators reveal hosts and services on various systems. 
+Nmap works both locally and remotely. Typical uses include scanning for open ports, discovering vulnerabilities in a network, network mapping, and maintenance. The tool is valuable from both a security and networking standpoint.
+
+
+Conclusion: Thus we studied and execute all IP commands in any network with the help of 
+Network configuration and troubleshooting commands.
+
+
+
+
