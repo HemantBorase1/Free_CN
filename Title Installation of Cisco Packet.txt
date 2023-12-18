@@ -1,0 +1,46 @@
+Title : Installation of Cisco Packet tracer tool 
+Aim: To study and Installation of Cisco Packet tracer tool 
+Objective : To understand Installation of Cisco Packet tracer tool 
+Relevance : Cisco Packet tracer tool 
+Theory : 
+Installation of Cisco Packet tracer tool 
+Packet Tracer is a very useful Cisco network simulation tool which allows network administrators and students to experiment with cisco network device behaviour. Packet Tracer provides simulation and visualization capabilities which facilitates the lab testing and learning of complex scenarios and concepts. 
+Packet Tracer does not require physical equipment. It creates a virtual network with an almost unlimited number of devices, encouraging practice, design scenarios testing and troubleshooting. Packet Tracer Download Link – Link Below is step by step procedure on installing Packet tracer on Windows PC – 
+STEP 1 – 
+Once we have downloading the Packet Tracer exe file , Click on the exe file downloaded. Once  below Window will appears, click next. 
+
+ 
+
+STEP 2 –
+On the next screen, select “I accept the agreement” and click on “Next”. 
+ 
+Step 2 of install packet tracer
+STEP 3 –
+Setup will show the folder in which the program’s shortcuts will be created. If you want to change the folder, you can change it. Click on “Next”.
+ 
+Step 3 of installing packet tracer
+ 
+STEP 4 –
+Then the program will ask whether to create a Desktop icon and create a Quick Launch icon. Make your choice and click on “Next”.
+ 
+Step 4 of installing packet tracer
+ 
+STEP 5 –
+The summary of the settings we selected is displayed. Click on “Install”
+ 
+Step 5 of installing packet tracer
+.
+ STEP 6 –The cisco packet tracer installation starts as shown below.
+ 
+STEP 7 –
+Cisco packet tracer Installation gets completed and the below screen is shown. Click on “Finish”.
+Click “OK” on next popup asking you to close or restart your computer.
+ 
+ 
+STEP 8 –
+Packet Tracer is installed and ready to be used.
+
+Conclusion: Thus we have studied practically installation of packet tracer tool.
+
+
+
